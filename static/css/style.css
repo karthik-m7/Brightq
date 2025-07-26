@@ -109,10 +109,11 @@ body{
 }
 
 .header .logo img{
-    width: 130%;
-    height: 3rem;
+    width: 200%;
+    height: 9rem;
     top: 0;
     left: 0;
+    border-radius:10px;
 }
 
 .header .navbar ul{
